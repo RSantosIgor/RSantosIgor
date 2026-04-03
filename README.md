@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor de software com mais de **4 anos de experiência profissional**, atuando principalmente com **Node.js no backend** e **React/Next.js no frontend**.
+Sou desenvolvedor de software com mais de **6 anos de experiência profissional**, atuando principalmente com **Node.js no backend** e **React/Next.js no frontend**.
 
 Tenho experiência na construção de:
 - APIs REST escaláveis  
