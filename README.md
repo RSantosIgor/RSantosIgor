@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Igor Rosa dos Santos
+
 
 💻 Desenvolvedor Full Stack | Node.js • React • Next.js  
 🚀 Focado em construir aplicações escaláveis, APIs e soluções com IA  
