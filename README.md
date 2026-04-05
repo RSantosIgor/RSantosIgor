@@ -1,75 +1,37 @@
+# Olá! Eu sou o Igor 👋
 
+Engenheiro de Software especializado em desenvolvimento Full Stack com **Node.js** e **React**. Cerca de 6 anos de experiência construindo aplicações web escaláveis, APIs REST e dashboards em tempo real. Foco em performance, arquitetura limpa e manutenibilidade.
 
-💻 Desenvolvedor Full Stack | Node.js • React • Next.js  
-🚀 Focado em construir aplicações escaláveis, APIs e soluções com IA  
-📍 Brasil | 🌐 Aberto a oportunidades remotas  
+📍 Goiás, Brasil &nbsp;|&nbsp; 💼 Disponível para trabalho remoto
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Sobre mim
+**Back-end:** Node.js · TypeScript · APIs REST  
+**Front-end:** React · Next.js · JavaScript (ES6+)  
+**Bancos de Dados:** PostgreSQL · MongoDB  
+**Cloud & DevOps:** Google Cloud (Cloud Run, Cloud Functions) · Docker  
+**Outros:** Integrações com APIs · Automação · IA (LLMs)
 
-Sou desenvolvedor de software com mais de **6 anos de experiência profissional**, atuando principalmente com **Node.js no backend** e **React/Next.js no frontend**.
+## 💼 Experiência
 
-Tenho experiência na construção de:
-- APIs REST escaláveis  
-- Dashboards e aplicações orientadas a dados  
-- Integrações com múltiplos sistemas  
-- Automação de processos e uso de IA  
+**Desenvolvedor Full Stack** — LiveFarm *(2021 – 2026)*  
+Desenvolvimento de APIs REST, dashboards com React/Next.js, integração com PostgreSQL e MongoDB, deploy em Google Cloud com Docker. Atuação em times ágeis com code reviews e foco em otimização de performance.
 
-Gosto de resolver problemas complexos, melhorar performance e transformar ideias em produtos funcionais 🚀  
+**Desenvolvedor** — Projeto Embrapii / IF Goiano *(2019 – 2021)*  
+Desenvolvimento com Ionic (Angular) + Firebase, sincronização de dados em tempo real, testes e documentação técnica.
 
----
+## 🚀 Projetos
 
-## 🛠️ Tecnologias & Ferramentas
-
-### Backend
-- Node.js • TypeScript • REST APIs  
-- PostgreSQL • MongoDB  
-
-### Frontend
-- React • Next.js • JavaScript (ES6+)  
-- TailwindCSS  
-
-### Cloud & DevOps
-- Google Cloud (Cloud Run, Cloud Functions)  
-- Docker • Git • CI/CD  
-
-### IA & Automação
-- OpenAI • Claude  
-- Web scraping • Pipelines de dados  
-- Vibecoding 🚀  
-
----
-
-## 📌 Projeto em destaque
-
-### 🧠 batchNews  
-Plataforma SaaS que automatiza a criação de conteúdo com IA.
-
-**Principais features:**
-- Ingestão de dados (RSS, scraping, YouTube)
-- Pipeline de IA (análise → geração → publicação)
-- Multi-tenant com segurança (RLS)
-- Integração com APIs externas
-
-👉 Projeto construído com forte uso de **IA como copiloto (vibecoding)**
-
----
+### [batchNews](https://github.com/rsantosigor/multi-account-content-automation-platform) — Plataforma de Automação com IA
+SaaS multi-tenant construído com Node.js e Next.js, com pipeline de dados automatizado, integração com LLMs, autenticação OAuth 2.0 e dashboards interativos.
 
 ## 🎓 Formação
 
-- 🎓 Engenharia de Computação — Instituto Federal Goiano  
-- 🧪 Técnico em Desenvolvimento Web  
-
----
+**Engenharia de Computação** — Instituto Federal Goiano *(2019 – 2023)*  
+**Técnico em Desenvolvimento Web** — Instituto Federal Goiano *(2015 – 2017)*
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rsantosigor  
-- 📧 Email: s.igorrosa@gmail.com  
-
----
-
-## ⚡ Curiosidade
-
-Gosto de construir produtos rapidamente usando IA e automação — transformar ideias em MVPs funcionais é o que mais me motiva 🚀
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsantosigor)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:s.IgorRosa@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rsantosigor)
