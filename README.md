@@ -12,15 +12,7 @@ Engenheiro de Software especializado em desenvolvimento Full Stack com **Node.js
 **Cloud & DevOps:** Google Cloud (Cloud Run, Cloud Functions) · Docker  
 **Outros:** Integrações com APIs · Automação · IA (LLMs)
 
-## 💼 Experiência
-
-**Desenvolvedor Full Stack** — LiveFarm *(2021 – 2026)*  
-Desenvolvimento de APIs REST, dashboards com React/Next.js, integração com PostgreSQL e MongoDB, deploy em Google Cloud com Docker. Atuação em times ágeis com code reviews e foco em otimização de performance.
-
-**Desenvolvedor** — Projeto Embrapii / IF Goiano *(2019 – 2021)*  
-Desenvolvimento com Ionic (Angular) + Firebase, sincronização de dados em tempo real, testes e documentação técnica.
-
-## 🚀 Projetos
+## 🚀 Projetos Relevantes
 
 ### [batchNews](https://github.com/rsantosigor/multi-account-content-automation-platform) — Plataforma de Automação com IA
 SaaS multi-tenant construído com Node.js e Next.js, com pipeline de dados automatizado, integração com LLMs, autenticação OAuth 2.0 e dashboards interativos.
